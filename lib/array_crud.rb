@@ -57,7 +57,7 @@ end
 retrieve_last_element_from_array(["h","m","l"])
 
 def update_element_from_index(array, index_number, element)
-    new = array[index_number]
+    array[index_number] = 
 
 
 end
