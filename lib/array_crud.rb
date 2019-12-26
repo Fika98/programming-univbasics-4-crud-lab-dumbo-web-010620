@@ -36,7 +36,7 @@ def retrieve_element_from_index(array, index_number)
   array.index_number[2]
   
 end
-retrieve_element_from_index("Soccer","Basketball")
+retrieve_element_from_index(["Soccer","Basketball"],"")
 
 def retrieve_first_element_from_array(array)
   
