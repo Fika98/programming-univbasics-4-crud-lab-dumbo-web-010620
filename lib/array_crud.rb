@@ -33,7 +33,7 @@ end
 remove_element_from_start_of_array(["Messi","Ronaldo"])
 
 def retrieve_element_from_index(array, index_number)
-  x = array.index["hello"]
+  x = array.index[index_number]
   p x
   
 ends
