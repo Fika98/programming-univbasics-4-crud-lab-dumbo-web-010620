@@ -62,4 +62,4 @@ def update_element_from_index(array, index_number, element)
 
 end
   
-  update_element_from_index(["Drake","Eminem","Snoop"],2, "")
+  update_element_from_index(["Drake","Eminem","Snoop"],2, "Kodak")
