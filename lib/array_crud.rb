@@ -40,7 +40,7 @@ end
 retrieve_element_from_index(["Soccer","Basketball","tennis"], 0)
 
 def retrieve_first_element_from_array(array)
-  y = arr[0]
+  y = array[0]
   
   p y 
   
