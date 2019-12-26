@@ -51,6 +51,8 @@ retrieve_first_element_from_array(["a","b","c"])
 def retrieve_last_element_from_array(array)
   k = array[-1]
   
+  p k
+  
 end
 retrieve_last_element_from_array(["h","m","l"])
 
