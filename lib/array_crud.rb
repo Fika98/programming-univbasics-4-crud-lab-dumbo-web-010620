@@ -45,7 +45,7 @@ def retrieve_first_element_from_array(array)
   p y 
   
 end
-retrieve_first_element_from_array("a","b","c")
+retrieve_first_element_from_array(["a","b","c"])
 
 
 def retrieve_last_element_from_array(array)
