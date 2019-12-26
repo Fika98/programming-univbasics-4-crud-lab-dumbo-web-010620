@@ -36,15 +36,17 @@ def retrieve_element_from_index(array, index_number)
  x = array[index_number]
  
  p x
- 
-  
-  
 end
-retrieve_element_from_index(["hello","Basketball","tennis"], 0)
+retrieve_element_from_index(["Soccer","Basketball","tennis"], 0)
 
 def retrieve_first_element_from_array(array)
+  y = arr[0]
+  
+  p y 
   
 end
+retrieve_first_element_from_array("a","b","c")
+
 
 def retrieve_last_element_from_array(array)
   
