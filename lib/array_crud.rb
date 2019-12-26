@@ -33,11 +33,11 @@ end
 remove_element_from_start_of_array(["Messi","Ronaldo"])
 
 def retrieve_element_from_index(array, index_number)
-  x = array[index_number]
+  x = array.index["hello"]
   p x
   
 ends
-retrieve_element_from_index(["hello","Basketball","tennis"], 0)
+retrieve_element_from_index(["hello","Basketball","tennis"], ["hello"])
 
 def retrieve_first_element_from_array(array)
   
