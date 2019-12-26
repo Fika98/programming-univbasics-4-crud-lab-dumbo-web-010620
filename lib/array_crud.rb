@@ -61,4 +61,4 @@ def update_element_from_index(array, index_number, element)
 
 end
   
-  update_element_from_index([""])
+  update_element_from_index(["Drake","Emeniem"])
