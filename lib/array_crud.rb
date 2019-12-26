@@ -27,10 +27,10 @@ remove_element_from_end_of_array(["Pers","Turk"])
 
 
 def remove_element_from_start_of_array(array)
-  array.shift()
+  array.shift
   
 end
-remove_element_from_start_of_array("Messi","Ronaldo")
+remove_element_from_start_of_array(["Messi","Ronaldo"])
 
 def retrieve_element_from_index(array, index_number)
   array.index_number[2]
